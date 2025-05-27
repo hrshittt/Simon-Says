@@ -30,4 +30,5 @@ You Can play this by opening simon.html file into your browser
 
 # Author
 Harshit Goyal
+
 Project Link - https://github.com/hrshittt/Simon-Says
